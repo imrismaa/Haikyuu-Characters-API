@@ -29,7 +29,7 @@ Response
         },
 ```
 
-You can request a specific fact if you know the ID / order it is buy passing the GET param `id`
+You can request a specific character by passing the GET parameter `id` if you know its ID/order.
 
 ```bash
 curl http://localhost:3000/api/posts/10
